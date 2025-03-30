@@ -87,8 +87,3 @@ h1:first-child
 h3, h4
 { font-style: italic;
 }
-
-li
-{
-    line-height: 90% ;
-}
